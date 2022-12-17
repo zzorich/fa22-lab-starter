@@ -1,0 +1,12 @@
+OSTYPE='darwin22'
+BASH_VERSION='GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin22)
+Copyright (C) 2007 Free Software Foundation, Inc.'
+SH_VERSION='GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin22)
+Copyright (C) 2007 Free Software Foundation, Inc.'
+GIT_VERSION='git version 2.38.1'
+PYTHON3_VERSION='Python 3.10.8'
+PYTHON_VERSION='gen-debug.sh: line 12: python: command not found'
+PY_VERSION='gen-debug.sh: line 13: py: command not found'
+JAVA_VERSION='openjdk version "11.0.16.1" 2022-08-12
+OpenJDK Runtime Environment Homebrew (build 11.0.16.1+0)
+OpenJDK 64-Bit Server VM Homebrew (build 11.0.16.1+0, mixed mode)'
